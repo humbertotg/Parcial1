@@ -1,0 +1,27 @@
+.image {
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+.intro {
+    margin: auto;
+    text-align: center;
+}
+
+.quote{
+    font-size: 15px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.timeline{
+    text-align: center;
+}
+
+.body{
+    background-color: rgb(248, 200, 200);
+}
+
+.footer{
+    margin-top: 50px;
+}
+
